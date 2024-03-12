@@ -49,3 +49,31 @@ public class MediaDosNumeros {
 }
 
 
+//ATIVIDADE//
+Os números são iguais?
+Crie uma função que retorne truequando xfor igual a y; caso contrário, retorne false.
+
+Exemplos
+isSameNum(4, 8) ➞ false
+
+isSameNum(2, 2) ➞  true
+
+isSameNum(42, 32) ➞  false
+Notas
+Não se esqueça do returnresultado.
+
+
+
+Calculadora de potência
+Crie uma função que receba voltagee currentretorne a potência calculada .
+
+Exemplos
+power(230, 10) ➞ 2300
+
+power(110, 3) ➞ 330
+
+power(480, 20) ➞ 9600
+Notas
+N / D
+
+
